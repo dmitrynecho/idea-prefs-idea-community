@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="JNI" />
-    <option name="defaultScopeName" value="JNI" />
+    <option name="customScope" value="DimaJNI" />
+    <option name="defaultScopeName" value="DimaJNI" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="JNI" />
+    <option name="SEARCH_SCOPE" value="DimaJNI" />
   </component>
 </application>
