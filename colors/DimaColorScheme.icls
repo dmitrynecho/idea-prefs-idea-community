@@ -1,8 +1,11 @@
 <scheme name="DimaColorScheme" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="LINE_NUMBERS_COLOR" value="898989" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
+  </colors>
   <attributes>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
