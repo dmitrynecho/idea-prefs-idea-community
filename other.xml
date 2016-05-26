@@ -82,4 +82,7 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
