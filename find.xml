@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Dima-JNI-and-C" />
-    <option name="defaultScopeName" value="Dima-JNI-and-C" />
+    <option name="customScope" value="File 'D:\readera\app\src\main\res\values\strings.xml'" />
+    <option name="defaultScopeName" value="File 'D:\readera\app\src\main\res\values\strings.xml'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Dima-JNI-and-C" />
+    <option name="SEARCH_SCOPE" value="File 'D:\readera\app\src\main\res\values\strings.xml'" />
   </component>
 </application>
