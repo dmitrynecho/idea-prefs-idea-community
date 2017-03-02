@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Dima-JNI-C" />
-    <option name="defaultScopeName" value="Dima-JNI-C" />
+    <option name="customScope" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
+    <option name="defaultScopeName" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Dima-JNI-C" />
+    <option name="SEARCH_SCOPE" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
   </component>
 </application>
