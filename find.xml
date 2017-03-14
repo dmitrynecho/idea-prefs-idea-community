@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
-    <option name="defaultScopeName" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
+    <option name="customScope" value="Dima-Java-XML" />
+    <option name="defaultScopeName" value="Dima-Java-XML" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/mnt/data/readera/app/src/main/cpp/thornyreader/crengine/src/lvdocview.cpp'" />
+    <option name="SEARCH_SCOPE" value="Dima-Java-XML" />
   </component>
 </application>
