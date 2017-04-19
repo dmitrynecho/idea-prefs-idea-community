@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="asdafsdfasdzzzz" type="PLAIN_TEXT" />
+      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern="ChangeLog" type="PLAIN_TEXT" />
+      <mapping ext="rawproto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
