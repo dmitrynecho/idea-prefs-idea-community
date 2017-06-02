@@ -1,4 +1,4 @@
-<profile version="1.0">
+<inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="AndroidLintUseSparseArrays" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OCSimplifyInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -22,4 +22,4 @@
     <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
     <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
   </inspection_tool>
-</profile>
+</inspections>
