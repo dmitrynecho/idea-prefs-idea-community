@@ -51,6 +51,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="eefdff" />
         <option name="BACKGROUND" value="5d8700" />
         <option name="ERROR_STRIPE_COLOR" value="abff00" />
         <option name="EFFECT_TYPE" value="1" />
