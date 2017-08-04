@@ -62,8 +62,9 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eb00ff" />
-        <option name="ERROR_STRIPE_COLOR" value="eb00ff" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f873ff" />
+        <option name="ERROR_STRIPE_COLOR" value="f873ff" />
       </value>
     </option>
   </attributes>
