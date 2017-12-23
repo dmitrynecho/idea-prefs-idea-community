@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Dima-JNI-C" />
-    <option name="defaultScopeName" value="Dima-JNI-C" />
+    <option name="customScope" value="Dima-Java-XML" />
+    <option name="defaultScopeName" value="Dima-Java-XML" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Dima-JNI-C" />
+    <option name="SEARCH_SCOPE" value="Dima-Java-XML" />
   </component>
 </application>
