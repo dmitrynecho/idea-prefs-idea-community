@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
-  </component>
 </application>
